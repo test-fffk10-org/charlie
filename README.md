@@ -48,11 +48,11 @@ npm run dev
 This application includes the following libraries:
 
 - **Express** (v5.1.0) - Fast, unopinionated, minimalist web framework
-- **Prisma** (v6.1.0) - Next-generation ORM for Node.js and TypeScript
-- **dotenv** (v16.4.5) - Environment variable management
+- **Prisma** (v6.18.0) - Next-generation ORM for Node.js and TypeScript
+- **dotenv** (v17.2.3) - Environment variable management
 - **cors** (v2.8.5) - CORS middleware for Express
-- **helmet** (v8.0.0) - Security headers middleware
-- **morgan** (v1.10.0) - HTTP request logger
+- **helmet** (v8.1.0) - Security headers middleware
+- **morgan** (v1.10.1) - HTTP request logger
 
 ## Database with Prisma
 
